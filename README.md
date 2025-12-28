@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Ibrahim Ahmed<br><br>🚀 **Senior Full-Stack Engineer | SaaS Builder | Cloud Architect**<br><br>I’m a passionate full-stack developer with over 5 years of experience building scalable web and SaaS applications — from startups to enterprise platforms. I specialize in creating systems that blend solid architecture with seamless user experiences.
+# 👋 Hi, I'm Ibrahim Ahmed<br><br>🚀 **Senior Full-Stack Engineer | SaaS Builder | Cloud Architect**<br><br>I’m a passionate full-stack developer with over 10 years of experience building scalable web and SaaS applications — from startups to enterprise platforms. I specialize in creating systems that blend solid architecture with seamless user experiences.
 
 
 ## 🌐 Socials:
