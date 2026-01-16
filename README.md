@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Senior Full-Stack Engineer | SaaS Builder | Cloud Architect
+### Senior Full-Stack Engineer | AI Engineer | Pro Vibe Coder
 
 *Building scalable platforms that solve real problems*
 
