@@ -37,7 +37,7 @@ Connecting SMEs directly with carriers across EU. Transparent pricing, instant q
 
 🔗 [cargors.com](https://cargors.com/)
 
-**Tech:** Next.js, Node.js, PostgreSQL, AWS
+**Tech:** Angular, Node.js, MongoDb, AWS , Shopify , Stripe , React
 
 </td>
 <td width="50%">
@@ -49,7 +49,7 @@ Complete inventory management solution covering purchasing, forecasting, repleni
 
 🔗 [inventoryahead.com](https://www.inventoryahead.com/)
 
-**Tech:** React, GraphQL, Python, Redis
+**Tech:** Angular, GraphQL, Python, Redis, Stripe
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ Smart travel booking with AI-powered recommendations for flights, accommodations
 
 🔗 [etera.tech](https://etera.tech/)
 
-**Tech:** AI/ML, TypeScript, Next.js, AWS
+**Tech:**  ElysiaJS , Typescript , AWS , Redis , Postgres, Kafka , Stripe , NextJs
 
 </td>
 <td width="50%">
