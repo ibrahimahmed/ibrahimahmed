@@ -125,25 +125,6 @@ Contributing to the ecosystem with tools that enhance developer productivity and
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimahmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 What I'm Up To
 
 ```typescript
@@ -180,8 +161,6 @@ I'm passionate about working on projects that:
 [![Discord](https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mullergg)
 
 </div>
-
----
 
 <div align="center">
 
